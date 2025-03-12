@@ -1,6 +1,6 @@
 # HMamba
 
-<p align="left"><img src="https://github.com/Fuann/hmamba/blob/main/pics/hmamba.png?raw=true" alt="3mh" width="800"/></p>
+<p align="left"><img src="https://github.com/Fuann/hmamba/blob/main/pics/hmamba.png?raw=true" alt="hmamba" width="800"/></p>
 
 ## Introduction
 
