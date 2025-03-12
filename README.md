@@ -8,6 +8,22 @@ This repository contains the official implementation of the paper, [Towards Effi
 
 > Codes are based on the open-source repository, [GOPT (Gong et. al, ICASSP 2022)](https://github.com/YuanGongND/gopt).
 
+## Citation
+
+If you find this repository useful, please cite the following paper:
+
+``` bibtex
+@misc{chao2025efficientmultifacetedcomputerassistedpronunciation,
+      title={Towards Efficient and Multifaceted Computer-assisted Pronunciation Training Leveraging Hierarchical Selective State Space Model and Decoupled Cross-entropy Loss}, 
+      author={Fu-An Chao and Berlin Chen},
+      year={2025},
+      eprint={2502.07575},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2502.07575}, 
+}
+```
+
 ## Usage
 
 - **Step 1 - Prepare features**
@@ -45,23 +61,7 @@ This repository contains the official implementation of the paper, [Towards Effi
   nano/vim path.sh
   ```
 
-  B. Experiment
+  C. Experiment
   ``` yaml
   bash run.sh
   ```
-  
-## Citation
-
-If you find this repository useful, please cite the following paper:
-
-``` bibtex
-@misc{chao2025efficientmultifacetedcomputerassistedpronunciation,
-      title={Towards Efficient and Multifaceted Computer-assisted Pronunciation Training Leveraging Hierarchical Selective State Space Model and Decoupled Cross-entropy Loss}, 
-      author={Fu-An Chao and Berlin Chen},
-      year={2025},
-      eprint={2502.07575},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2502.07575}, 
-}
-```
