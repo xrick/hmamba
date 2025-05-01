@@ -13,15 +13,18 @@ This repository contains the official implementation of the paper, [Towards Effi
 If you find this repository useful, please cite the following paper:
 
 ``` bibtex
-@misc{chao2025efficientmultifacetedcomputerassistedpronunciation,
-      title={Towards Efficient and Multifaceted Computer-assisted Pronunciation Training Leveraging Hierarchical Selective State Space Model and Decoupled Cross-entropy Loss}, 
-      author={Fu-An Chao and Berlin Chen},
-      year={2025},
-      eprint={2502.07575},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2502.07575}, 
-}
+@inproceedings{chao-chen-2025-towards,
+    title = "Towards Efficient and Multifaceted Computer-assisted Pronunciation Training Leveraging Hierarchical Selective State Space Model and Decoupled Cross-entropy Loss",
+    author = "Chao, Fu-An  and Chen, Berlin",
+    editor = "Chiruzzo, Luis  and Ritter, Alan  and Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.98/",
+    pages = "1947--1961",
+    ISBN = "979-8-89176-189-6"
 ```
 
 ## Usage
