@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains the official implementation of the paper, [Towards Efficient and Multifaceted Computer-assisted Pronunciation Training Leveraging Hierarchical Selective State Space Model and Decoupled Cross-entropy Loss](https://arxiv.org/abs/2502.07575) (NAACL 2025).
+This repository contains the official implementation of the paper, [Towards Efficient and Multifaceted Computer-assisted Pronunciation Training Leveraging Hierarchical Selective State Space Model and Decoupled Cross-entropy Loss](https://aclanthology.org/2025.naacl-long.98) (NAACL 2025).
 
 > Codes are based on the open-source repository, [GOPT (Gong et. al, ICASSP 2022)](https://github.com/YuanGongND/gopt).
 
